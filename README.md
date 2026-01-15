@@ -42,7 +42,7 @@ Scattered velocity model
 ### Python Dependencies
 
 ```bash
-pip install numpy scipy
+pip install numpy scipy nllgrid
 ```
 
 > Note: `step2.make_nll_grid.py` uses `nllgrid` (a Python helper for NLLoc grids).
